@@ -3,7 +3,7 @@
 Hi! I'm Dennis. I'm Majoring in Petroleum Engineering at Bandung Institute of Technology
  - :raising_hand: My Major Interest is Production & Drilling Engineering
  - :computer: I uses Python & Power BI for learning data science
- - :sound: I can speak Bahasa Indonesia (Native), English, & Japanese (N4)
+ - :sound:&nbsp; I can speak Bahasa Indonesia (Native), English, & Japanese (N4)
 
 Just a little about me
  - :dollar: Who cares about money pfftttt, :triumph: no I do care.....lol

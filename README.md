@@ -11,4 +11,5 @@ Just a little about me
 
 --------------------------------------------------------------------------------------------------------------
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rexon14&show_icons=true&theme=nord)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexon14)](https://github.com/rexon14/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexon14&layout=compact)](https://github.com/rexon14/github-readme-stats)

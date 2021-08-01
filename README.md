@@ -1,7 +1,7 @@
 # Konnichiwa!! デニス(Dennis)と申します
 
 I'm Majoring in Petroleum Engineering at Bandung Institute of Technology
- - :raising_hand: My Major Interest is Information Technology
+ - :raising_hand: My Major Interest is Data Scienc & Android Development
  - :computer: I use Python & Power BI for learning data science
  - :sound:&nbsp; I can speak Bahasa Indonesia (Native), English, & Japanese (N4)
 
@@ -11,3 +11,4 @@ Just a little about me
 
 --------------------------------------------------------------------------------------------------------------
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rexon14&show_icons=true&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexon14)](https://github.com/rexon14/github-readme-stats)

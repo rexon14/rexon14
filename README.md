@@ -1,7 +1,7 @@
 # Konnichiwa!! デニス(Dennis)と申します
 
 I'm Majoring in Petroleum Engineering at Bandung Institute of Technology
- - :raising_hand: My Major Interest is Data Scienc & Android Development
+ - :raising_hand: My Major Interest is Data Science & Android Development
  - :computer: I use Python & Power BI for learning data science
  - :sound:&nbsp; I can speak Bahasa Indonesia (Native), English, & Japanese (N4)
 
